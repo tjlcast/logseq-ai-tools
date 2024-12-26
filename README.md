@@ -35,5 +35,8 @@ ${content}
 2. Run: `npm install`
 3. Run: `npm run build`
 
+### git
+`git clone git@github.com:tjlcast/logseq-ai-tools.git`
+
 ### Author
 - [jialtang](https://github.com/tjlcast)
