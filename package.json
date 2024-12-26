@@ -1,0 +1,24 @@
+{
+  "name": "logseq-ai-tools",
+  "version": "0.0.1",
+  "description": "A ai tools 🚀",
+  "main": "dist/index.html",
+  "author": "©Jialtang",
+  "license": "MIT",
+  "targets": {
+    "main": false
+  },
+  "default": "dist/index.html",
+  "scripts": {
+    "dev": "parcel ./index.html --public-url ./",
+    "build": "parcel build --public-url . --no-source-maps index.html"
+  },
+  "devDependencies": {
+    "@logseq/libs": "0.2.0",
+    "parcel": "^2.0.0"
+  },
+  "logseq": {
+    "id": "jialtang_ai_tools_yo5bzxaca",
+    "icon": "./ai-logo.jpg"
+  }
+}
