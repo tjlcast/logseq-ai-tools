@@ -34,3 +34,6 @@ ${content}
 1. Open dev model in logseq, then you can install plugin from disk.
 2. Run: `npm install`
 3. Run: `npm run build`
+
+### Author
+- [jialtang](https://github.com/tjlcast)
